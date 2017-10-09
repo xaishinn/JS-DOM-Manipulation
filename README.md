@@ -8,4 +8,4 @@ This repo contains a few exercises for manipulating your DOM with Vanilla JavaSc
 
 
 ## Exercise 1
-1.
+1. 

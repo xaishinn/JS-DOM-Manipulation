@@ -1,0 +1,23 @@
+*{
+  text-align: center;
+}
+.info{
+  background-color: grey;
+
+}
+.colorChanger{
+  background-color: lightblue;
+  border: none;
+  box-shadow: 0px 0px 10px black;
+  border-radius: 10px;
+}
+.black{
+  color: black;
+  background-color: lightblue;
+  box-shadow: 0px 0px 10px lightblue;
+}
+.blue{
+  color: lightblue;
+  background-color: darkgrey;
+  box-shadow: 0px 0px 10px darkgrey;
+}
